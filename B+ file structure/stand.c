@@ -9,6 +9,7 @@ void Init_pile(Pile *p)
 //////////////////////////////////////////////////////////////
 // Empiler le num de bloc (i) et son contenu (n)
 
+
 void Empiler(Pile *p, int i, node n)
 {
     p->sommet++;

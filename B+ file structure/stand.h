@@ -11,6 +11,7 @@
 #define MAX_pile 500000
 #define nbofbloc 4 //392157
 
+
 ///*  variable global   *///
 struct tbloc
 {
