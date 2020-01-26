@@ -27,6 +27,7 @@ void Depiler(Pile *p, int *i, node *n)
    p->sommet--;
 }
 
+
  bplustree *Ouvrir_bplstree(char *nom, char mode) // mode ='A' ou 'N'
 {
    bplustree *bt = malloc( sizeof(bplustree) );
