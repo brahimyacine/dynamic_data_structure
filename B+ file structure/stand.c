@@ -1,6 +1,5 @@
 #include "stand.h"
 
-/////////////////// test ///////////////////////////////////
 
 void Init_pile(Pile *p)
 {
