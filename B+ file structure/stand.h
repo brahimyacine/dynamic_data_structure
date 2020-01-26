@@ -28,6 +28,7 @@ struct entete
 
 typedef struct entete header;
 typedef struct tbloc buff;
+
 int size_entete=sizeof(header);
 int size_bloc=sizeof(buff);
 header Header;

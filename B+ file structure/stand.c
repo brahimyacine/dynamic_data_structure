@@ -20,6 +20,7 @@ void Empiler(Pile *p, int i, node n)
 
 // Depiler le num de bloc dans i et son contenu dans n
 
+
 void Depiler(Pile *p, int *i, node *n)
 {
    *i = p->adr[p->sommet];
